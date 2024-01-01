@@ -1,1 +1,0 @@
- C:\\flutter\\travel_guide_app\\.dart_tool\\flutter_build\\5b18031097e303217f1cf8a4f9caa4e0\\native_assets.yaml: 
