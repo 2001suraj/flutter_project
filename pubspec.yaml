@@ -29,7 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   firebase_auth: ^4.15.3
-
+ 
 
   flutter:
     sdk: flutter
